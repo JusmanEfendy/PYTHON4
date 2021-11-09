@@ -47,6 +47,39 @@
 
 3. LIST METHOD
 
+    kumpulan method-method didalam list
+    
+    - contoh method append yang menambahkan nilai di dalamm append ke list
+
+    ![Annotation 2021-11-08 213123](https://user-images.githubusercontent.com/92988781/140868095-5b2fdb5d-1134-4bce-b8b5-b318d66d4f19.png)
+    
+    - method insert akan mensisipkan sebuah nilai ke dibagian list (di sela-sela list)
+
+    ![Annotation 2021-11-08 214208](https://user-images.githubusercontent.com/92988781/140869023-bcf84313-943f-4eea-bf06-e29325c67dc3.png)
+    
+    - NOTE : append dan insert sama-sama keduanya untuk memasukkkan data atau elemen baru ke dalam sebuah list.
+
+
+    - tadi menambahkan nilai atau elemen sekarang kita hapus nilai  didalam list 
+
+    - contohnya.
+
+    - method pop (menghapus nilai menurut indeks)
+
+    ![Annotation 2021-11-08 215012](https://user-images.githubusercontent.com/92988781/140869841-76846c00-b2c4-4799-8641-60f7abc79855.png)
+    
+    - method remove hampir sama dengan pop namun bedanya kalau pop berdasarkan indeks sedangkan remove langsung sebut objeknya atau elemennya
+
+    ![Annotation 2021-11-08 215440](https://user-images.githubusercontent.com/92988781/140870310-35af0d3c-9feb-4dd0-9408-17c6e2d86bb1.png)
+
+
+
+    
+
+
+
+    
+
 
 
     
