@@ -25,6 +25,20 @@
     List ini sama dengan array di bahasa program lain. list itu bisa menampung lebih dari satu tipe data.
     
     - contoh List di python
+    - bisa dilihat pada gambar dibaawah ini terdapat 3 tipe data di dalam 1 variabel, yaitu string, integer, dan boolean
+
+    ![Annotation 2021-11-08 205628](https://user-images.githubusercontent.com/92988781/140865055-21af8f80-979d-4d90-93f0-43edfe74663c.png)
+    
+    - penjelasan didalam gambar
+
+    ![Annotation 2021-11-08 210351](https://user-images.githubusercontent.com/92988781/140865678-0b83ee7e-9c71-4f2b-9a9e-9a0325344871.png)
+    
+    - contoh berikutnya
+
+    ![Annotation 2021-11-08 211140](https://user-images.githubusercontent.com/92988781/140866322-2c97174e-b201-4cb7-9ea9-5761f2e8811f.png)
+
+
+
     
     
     
