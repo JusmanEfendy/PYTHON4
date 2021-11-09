@@ -71,6 +71,36 @@
     - method remove hampir sama dengan pop namun bedanya kalau pop berdasarkan indeks sedangkan remove langsung sebut objeknya atau elemennya
 
     ![Annotation 2021-11-08 215440](https://user-images.githubusercontent.com/92988781/140870310-35af0d3c-9feb-4dd0-9408-17c6e2d86bb1.png)
+    
+    - method sort (untuk mengurutkan nilai atau elemen dari terkecil ke terbesar 
+
+    ![Annotation 2021-11-08 220049](https://user-images.githubusercontent.com/92988781/140870856-b4b5d6d9-8036-417e-bb1f-70f580530d28.png)
+    
+    - ITULAH TADI BEBERAPA METHOD LIST DAN MASIH BANYAK LAGI.
+
+
+
+4. MENJUMLAHKAN LIST
+
+    untuk memanfaatkan list untuk mencari nilai penjumlahan dari semua nilai didalam list
+    
+    - contohnya sebgai berikut
+
+    ![Annotation 2021-11-08 221738](https://user-images.githubusercontent.com/92988781/140872435-9e8f82ea-cfb5-4595-8053-8416256739bf.png)
+    
+    - sip
+
+
+
+5. MENCARI ANGKA MAX
+
+    menggunakan function sum 
+    
+    - contoh
+
+    
+
+
 
 
 
