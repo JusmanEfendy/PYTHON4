@@ -36,6 +36,16 @@
     - contoh berikutnya
 
     ![Annotation 2021-11-08 211140](https://user-images.githubusercontent.com/92988781/140866322-2c97174e-b201-4cb7-9ea9-5761f2e8811f.png)
+    
+    
+    - contoh menggunakan for 
+
+    ![Annotation 2021-11-08 212045](https://user-images.githubusercontent.com/92988781/140867151-8faee069-8349-4cc2-9050-43fac3b2cd6a.png)
+
+
+
+
+3. LIST METHOD
 
 
 
