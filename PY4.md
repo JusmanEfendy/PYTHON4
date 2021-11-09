@@ -94,13 +94,74 @@
 
 5. MENCARI ANGKA MAX
 
-    menggunakan function sum 
+    menggunakan function sum (untuk menjumlahkan semua objek yanng ada dalam list)
     
     - contoh
 
+    ![Annotation 2021-11-08 222313](https://user-images.githubusercontent.com/92988781/140873001-460ec96c-1c9d-4af8-a71b-f6e54feef47b.png)
+
+    - ternyata ini cara cepatnya untuk mencari nilai max tanpa susah-susah menggunakan for
+
+
+    - function max (mencari angka paling besar di objek atau elemen-elemen
+     
+    ![Annotation 2021-11-08 222907](https://user-images.githubusercontent.com/92988781/140873680-7e87305d-41f5-41bf-beb2-b5edf3f20c81.png)
     
+    - mencari angka max dengan rumit (for)
+
+    ![Annotation 2021-11-08 224200](https://user-images.githubusercontent.com/92988781/140875020-84519e99-beac-49c9-ba0c-e1dc1f233814.png)
+    
+    - NOTE: JIKA HAL SERUMIT INI SAYA AKAN MENGGUNAKAN MAX SAJA
 
 
+
+6. TUPLE
+
+    Mirip dengan list bedanya kalau list meanggunkan ini [] sedangkan tuple menggunakan (). dan di list bisa menambahkan elemen sedangkan di tuple tidak bisa ferguso (imutable)
+    
+    
+7. UNPACK
+    
+    Adalah contohnya seperti ini    
+    
+    ![Annotation 2021-11-08 230710](https://user-images.githubusercontent.com/92988781/140877998-a17f88a7-051e-4107-a31d-2c6030086cb0.png)
+    
+    - contoh unpack lagi 
+
+    ![Annotation 2021-11-08 231207](https://user-images.githubusercontent.com/92988781/140878450-c121991d-86d0-4448-8cc5-35eb95f98690.png)
+    
+  
+  
+  
+  
+  
+  
+8. DICTIONARY
+
+    Dictionary atau kamus sebuah struktur data yang bisa menyimpan data dalam bentuk key
+    
+    - contohnya sebgai berikut
+
+    ![Annotation 2021-11-08 233000](https://user-images.githubusercontent.com/92988781/140880875-54f4d3c9-8906-4189-993d-0c91308843f1.png)
+    
+    
+    - bagaimana caranya jika ingin mengakses value yang tidak ada di dictionary
+
+    ![Annotation 2021-11-08 233944](https://user-images.githubusercontent.com/92988781/140882187-e11ba3e0-92c8-4f9b-8817-26cf63ea3c71.png)
+    
+    - dengan cara memanggil get 
+    - !!!
+
+- SELESAI
+- MAAF JIKA ADA KESALAHAN 
+
+
+
+
+
+
+
+    
 
 
 
